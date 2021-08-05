@@ -1,3 +1,3 @@
 # randomcwmapfilter
-by demetrius (and burn?)
-I only added a couple of things
+By Demetrius (and Burn?).
+I only added a couple of things.
